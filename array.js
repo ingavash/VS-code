@@ -64,3 +64,4 @@ let arrayTest = newAr.concat (secOnd,fruits);
 console.log (arrayTest);
 
 
+
